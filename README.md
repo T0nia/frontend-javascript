@@ -1,2 +1,2 @@
-# Typescript project
-In this project, I have used Typescript to create a student interface. 
+# My Typescript project
+In this project, I have used Typescript to build a student interface. 
